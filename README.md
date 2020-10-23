@@ -12,4 +12,4 @@ Choose a option
  5. ENABLE BUILT_IN DISPLAY AND RERUN THE UTILITY
  6. Set HDMI as PRIMARY DISPLAY 
  7. Set BUILT_IN DISPLAY AS PRIMARY
-## ENTER e after the option to exit and terminate the console terminal
+## ENTER 'e' after the option to exit and terminate the console terminal
